@@ -1,4 +1,4 @@
-module github.com/gin-contrib/requestid
+module github.com/quantifex/requestid
 
 go 1.14
 
